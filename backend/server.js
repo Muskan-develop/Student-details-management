@@ -162,3 +162,4 @@ app.delete("/delete-course/:id", (req, res) => {
     res.json({ success: true });
   });
 });
+
